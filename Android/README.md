@@ -22,3 +22,7 @@
 
 #### Android Studio
 * [android studio 2.2新特性](/Android-Studio/android studio 2.2新特性.md)
+
+
+
+* [Android进程保活](https://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653577617&idx=1&sn=623256a2ff94641036a6c9eea17baab8)
